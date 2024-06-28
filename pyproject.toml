@@ -11,6 +11,8 @@ dagster = "~1.7.8"
 dagster-duckdb = "^0.23.8"
 requests = "^2.32.3"
 dagster-snowflake-pandas = "0.23.10"
+toml = "^0.10.2"
+dlt = "^0.4.12"
 
 [tool.poetry.group.dev.dependencies]
 dagster-webserver = "~1.7.8"
